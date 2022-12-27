@@ -1,13 +1,13 @@
 #!/usr/bin/env python
-import shutil
+import os
 
-shutil.copy("main.css", "../_cards/main.css")
-
+os.symlink("../scripts/main.css", "../_cards/main.css")
+os.symlink("../img/", "../_cards/img")
 
 header = """
 <html>
 <head>
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="./main.css">
 </head>
 <body>
 """
@@ -29,9 +29,9 @@ temp = """
     {}
   </div>
   <img src="./img/{}.jpeg" />
-  <div class="word">
+  <h2 class="word">
     {}
-  </div>
+  </h2>
 </div>
 """
 

@@ -3,3 +3,7 @@
 0003 car
 0004 youtube
 0005 chick
+0006 crane
+0007 excavator
+0008 tractor
+0009 pliers

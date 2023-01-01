@@ -1,3 +1,8 @@
+h1, h2 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  text-align: center;
+  font-size: 3em;
+}
 body {
   background: yellow;
   width: 50%;

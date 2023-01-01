@@ -7,3 +7,9 @@
 0007 excavator
 0008 tractor
 0009 pliers
+0010 flower
+0011 monkey
+0012 chimp
+0013 giraffe
+0014 lion
+0015 tiger

@@ -13,3 +13,8 @@
 0013 giraffe
 0014 lion
 0015 tiger
+0016 sheep
+0017 gloves
+0018 desk
+0019 pan
+0020 dinosaur

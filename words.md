@@ -28,3 +28,13 @@
 0028 potatoes
 0029 french fries
 0030 bowl
+0031 shark
+0032 whale
+0033 Mr Bean
+0034 chili pepper
+0035 hippo
+0036 apple core
+0037 bike
+0038 ambulance
+0039 turtle
+0040 crocodile

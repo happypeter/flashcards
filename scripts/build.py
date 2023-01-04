@@ -35,7 +35,6 @@ temp = """
   <img src="./img/{}.jpeg" />
   <h2 class="word">
     {}
-    {}
   </h2>
 </div>
 """
@@ -44,8 +43,8 @@ cards = ''
 for line in Lines:
     count += 1
     uid = line.strip().split()[0]
-    word = line.strip().split()[1]
-    cards = cards + temp.format(uid, uid, word)
+    word = line.strip()
+    cards = cards + temp.format(uid, word)
 
 content = header + cards + footer
 

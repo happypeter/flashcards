@@ -18,3 +18,8 @@
 0018 desk
 0019 pan
 0020 dinosaur
+0021 cup
+0022 spoon
+0023 plant
+0024 soda
+0025 train

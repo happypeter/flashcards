@@ -23,3 +23,8 @@
 0023 plant
 0024 soda
 0025 train
+0026 panda
+0027 tomatoes
+0028 potatoes
+0029 french fries
+0030 bowl

@@ -38,3 +38,8 @@
 0038 ambulance
 0039 turtle
 0040 crocodile
+0041 zombie
+0042 ghost
+0043 werewolf
+0044 pompkin
+0045 watermelon

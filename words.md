@@ -43,3 +43,25 @@
 0043 werewolf
 0044 pompkin
 0045 watermelon
+0046 peanuts
+0047 duck
+0048 table
+0049 cucumber
+0050 fish
+0051 headset
+0052 earphone
+0053 computer
+0054 mouse
+0055 iPad
+0056 mouse
+0057 clown
+0058 axe
+0059 house
+0060 shelf
+0061 couch
+0062 rubber band
+0063 power socket
+0064 power plug
+0065 monster truck
+0066 big truck
+0067 gun

@@ -5,6 +5,7 @@ import shutil
 if os.path.exists('../_cards'):
   shutil.rmtree('../_cards')
 
+os.system("mv ~/Desktop/????.jpeg ../img/")
 
 os.mkdir('../_cards')
 os.symlink("../scripts/main.css", "../_cards/main.css")

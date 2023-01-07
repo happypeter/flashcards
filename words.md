@@ -65,3 +65,16 @@
 0065 monster truck
 0066 big truck
 0067 gun
+0068 spiderman
+0069 string
+0070 spider
+0071 spider web
+0072 iguana
+0073 house gecko
+0074 backpack
+0075 stick
+0076 firewood
+0077 tree
+0078 bull
+0079 milk cow
+0080 penguin

@@ -78,3 +78,14 @@
 0078 bull
 0079 milk cow
 0080 penguin
+0081 goldfish
+0082 folder
+0083 shopping cart
+0084 supermarket
+0085 cheese
+0087 boy
+0088 girl
+0089 old man
+0090 old lady
+0091 gorilla
+0092 bullet

@@ -2,14 +2,14 @@
 import os
 import shutil
 
-if os.path.exists('../_cards'):
-  shutil.rmtree('../_cards')
+if os.path.exists('./_cards'):
+  shutil.rmtree('./_cards')
 
-os.system("mv ~/Desktop/*.jpeg ../img/")
+os.system("mv ~/Desktop/*.jpeg ./img/")
 
-os.mkdir('../_cards')
-os.symlink("../scripts/main.css", "../_cards/main.css")
-os.symlink("../img/", "../_cards/img")
+os.mkdir('./_cards')
+os.symlink("../scripts/main.css", "./_cards/main.css")
+os.symlink("../img/", "./_cards/img")
 
 
 header = """
@@ -25,7 +25,7 @@ footer = """
 </html>
 """
 
-file2 = open('../words.md', 'r')
+file2 = open('./words.md', 'r')
 
 Lines = file2.readlines()
   
@@ -50,6 +50,6 @@ for line in Lines:
 content = header + cards + footer
 
 # writing to file
-file1 = open('../_cards/index.html', 'w')
+file1 = open('./_cards/index.html', 'w')
 file1.write(content)
 file1.close()

@@ -89,3 +89,52 @@
 0090 old lady
 0091 gorilla
 0092 bullet
+0093 ladle
+0094 spatula
+0095 dragon
+0096 curtain
+0097 curtain rod
+0098 football
+0099 baskball
+0100 horse
+0101 keyboard
+0102 mouse pad
+0103 chair
+0104 candy
+0105 chocolate
+0106 cellphone 
+0107 skeleton
+0108 bandage
+0109 tape
+0110 rocket
+0111 rock
+0112 pencil
+0113 colored pencil
+0114 marker
+0115 dog
+0116 pillows
+0117 robot
+0118 grapes
+0119 snow flakes
+0120 lock and key
+0121 rainbow
+0122 pie
+0123 pizza 
+0124 lamp
+0125 light bulb
+0126 mat
+0127 cat on mat
+0128 sushi
+0129 crab
+0130 airplane
+0131 doctor 
+0132 nurse
+0133 boat
+0134 hospital
+0135 jet
+0136 fishing net
+0137 butterfly net
+0138 basketball court
+0139 football court
+0140 tall building
+0141 wood strips

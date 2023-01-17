@@ -138,3 +138,44 @@
 0139 football court
 0140 tall building
 0141 wood strips
+0142 sweet rice balls
+0143 stair
+0144 railway
+0145 lake
+0146 river
+0147 street
+0148 road
+0149 trail
+0150 traffic light
+0151 toy car
+0152 toy truck
+0153 toys
+0154 mouth
+0155 germ
+0156 nose
+0157 eyebrow
+0158 pills
+0159 sick
+0160 superheros
+0161 monster
+0162 sharp knife
+0163 firefighers
+0164 firetruck
+0165 house on fire
+0166 bad smell socks
+0167 cops
+0168 policeman
+0169 police car
+0170 wood cylinder
+0171 wood block
+0172 pointy tool
+0173 toy blocks
+0174 rich person
+0175 king
+0176 princess
+0177 prince
+0178 jewelry
+0179 lace up my shoes
+0180 cactus
+0181 iron man
+0182 octopus
